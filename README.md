@@ -13,6 +13,7 @@ The platform, Airbnb, has over 6 million listings worldwide from 4 million Hosts
 #**Exploratory Data Analysis of Airbnb listings data**
 
 1.**Clean and pre-process the data**
+
 2.**Descriptive Statistics:** *calculate measures of central tendency and dispersion*
 3.**Histograms:** *visualize distribution of continuous variables*
 4.**Box Plot:** *Analyse distribution and potential outliers for variables*
