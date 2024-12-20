@@ -1,0 +1,15 @@
+contourpy==1.1.1
+cycler==0.12.1
+dill==0.3.7
+distro==1.8.0
+fonttools==4.54.1
+matplotlib==3.8.0
+pandas==2.1.0
+parso==0.8.3
+Pillow==10.0.1
+pkgconfig==1.5.5
+PySDL2==0.9.15
+python-dateutil==2.9.0.post0
+pytz==2024.2
+seaborn==0.13.2
+
