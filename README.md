@@ -1,10 +1,12 @@
 #**AIRBNB ANALYSIS**# 
 
 #**Introduction**#
+
 Airbnb is an online marketplace for renting be out homes/villas/private rooms.
 It charges a commission for every booking.
 
 ##**Business Context**#
+
 The sharing economy has revolutionised the travel industry.
 The platform, Airbnb, has over 6 million listings worldwide from 4 million Hosts.
 
