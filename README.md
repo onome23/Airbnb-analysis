@@ -1,4 +1,5 @@
-# **AIRBNB ANALYSIS** 
+# **AIRBNB ANALYSIS**
+This is an analysis Airbnb listings data.
 
 # **Introduction**
 
